@@ -1,0 +1,21 @@
+- link osghaptic to openscenegraph
+- transfer over windows osghaptics files
+- make sure that visual studio projects can be generated (and properly) by build chain
+- write shapes class
+	- quad
+	- triangle
+	- torus
+- write gui class
+	- overlay
+	- button
+	- menu
+- write dremel class
+- write tissue classes
+- write voxelizer method(s)
+	-- bounding sphere voxelizer
+	-- bounding box voxelizer
+	-- triangle mesh voxelizer
+
+	-- stepped voxelizer - generate rays, but
+	do not generate all voxels yet
+- write marching cubes algorithm

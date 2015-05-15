@@ -1,0 +1,5 @@
+This is a utility for adding "modules" to an existing repo. A module
+is basically a project on its own with its own dependencies, but is
+included in a common repository. Generally, modules located within a
+repository are related to each other in someway such as being libraries
+for an application or a related set of applications.

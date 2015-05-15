@@ -1,0 +1,7 @@
+class leap
+{
+private:
+	
+public:
+	
+}
